@@ -52,6 +52,7 @@ SNS Notification
 
 # Project Structure
 
+
 aws-log-backup-automation/
 │
 ├── lambda_function.py
