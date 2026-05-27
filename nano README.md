@@ -17,16 +17,22 @@ The workflow automatically:
 # Architecture
 
 EventBridge
+
 ↓
 Lambda Function
+
 ↓
 SSM Command
+
 ↓
 EC2 Instance
+
 ↓
 Create Log Files
+
 ↓
 Upload Logs to S3
+
 ↓
 SNS Notification
 
