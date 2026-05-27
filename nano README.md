@@ -55,16 +55,25 @@ SNS Notification
 aws-log-backup-automation/
 │
 ├── lambda_function.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── screenshots/
+
 │   ├── ec2.png
+
 │   ├── lambda.png
+
 │   ├── s3.png
+
 │   ├── sns.png
+
 │   └── eventbridge.png
 │
 └── docs/
+
     └── setup-guide.md
 
 ---
